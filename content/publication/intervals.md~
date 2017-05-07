@@ -1,0 +1,22 @@
++++
+
+abstract = "" 
+
+authors = ["Datta Krupa R", "Aniket Basu Roy", "Minati De", "Sathish Govindarajan"]
+
+date = "2017-05-04"
+image_preview = ""
+math = true
+publication_types = ["1"]
+publication = "In the Proceedings of the *Conference on Algorithms and Discrete Applied Mathematicss* (CALDAM), 2017"
+publication_short = "In *CALDAM* 2017"
+selected = false
+title = "Demand Hitting and Covering of Intervals"
+url_code = ""
+url_dataset = ""
+url_pdf = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+
++++

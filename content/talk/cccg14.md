@@ -1,0 +1,18 @@
++++
+date = "2014-08-13T00:00:00"
+title = "On the d-Runaway Rectangle Escape Problem"
+abstract = ""
+abstract_short = ""
+event = "The 26th Canadian Conference on Computational Geometry (CCCG) 2014"
+event_url = "https://projects.cs.dal.ca/cccg2014/"
+location = "Dalhousie University, Halifax, Canada"
+
+selected = true
+math = true
+
+url_pdf = "http://www.cccg.ca/proceedings/2014/papers/paper43.pdf"
+url_slides = "publication/ppt/ppt-runaway.pdf"
+url_video = ""
+
++++
+
